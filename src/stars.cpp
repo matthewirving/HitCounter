@@ -1,5 +1,5 @@
 // Animates white pixels to simulate flying through a star field
-
+/*
 #include <Arduino.h>
 #include <SPI.h>
 #include <TFT_eSPI.h>
@@ -88,3 +88,4 @@ void loop()
 }
 
 
+*/
